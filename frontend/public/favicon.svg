@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background: Beige Rounded Square -->
+    <rect width="40" height="40" rx="12" fill="#eae5d9"/>
+    
+    <!-- Top-Left Object: Outlined Square -->
+    <!-- Positioned at x=10, y=10 (matching top-2.5 left-2.5 in Tailwind) -->
+    <rect x="10" y="10" width="14" height="14" rx="3.5" stroke="black" stroke-width="2.5" fill="none"/>
+    
+    <!-- Bottom-Right Object: Filled Square -->
+    <!-- Positioned at x=16, y=16 (matching bottom-2.5 right-2.5 overlap logic) -->
+    <rect x="17" y="17" width="13" height="13" rx="3" fill="black"/>
+</svg>
